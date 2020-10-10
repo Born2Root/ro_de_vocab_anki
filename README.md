@@ -1,10 +1,10 @@
-Anki Vokabel & Verb-Konjugations Trainer für Deutsch <-> Rumänisch (DE - RO)
+Anki Vokabel & Verb-Konjugations Trainer für Deutsch<->Rumänisch (DE - RO)
 ============================================
 
 **Dies ist ein rumänisch Vokabel & Verb-Konjugations Trainer für [Anki](http://ankisrs.net)**
 
 Er enthält:
-- Die Top 625 Wörter [Lies mehr über Top 625]()
+- Die Fluent Forever 625 Basis Vokabeln [mehr über Fluent Forever - 625 Words Methode](https://blog.fluent-forever.com/base-vocabulary-list/)
 - Duolingo Vokabeln
 - 50 Languages Vokabeln
 - Die meistverbreiteten irregulären & reulären Verben
@@ -21,14 +21,8 @@ Das Deck enthält direkt lernbarde Karten für:
 
 1. Importiere das Deck (.apkg Datei) in Anki
 
-2. 
+2. Falls du nur irreguläre Verben üben möchtest ist das auch möglich. Wähle einfach alle Notes mit 'r' (für regulär) im Feld 'Type' aus und pausiere sie. Das geht am einfachsten, wenn du `type:r` in den Browser eingibst.2
 
-3. Falls du nur irreguläre Verben üben möchtest ist das auch möglich. Wähle einfach alle Notes mit 'r' (für regulär) im Feld 'Type' aus und pausiere sie. Das geht am einfachsten, wenn du `type:r` in den Browser eingibst.
+3. Repositionieren: Wenn du einige Vokabeln früher als andere lernen möchtest, markiere die Notizen und nutze das 'Repositionieren' Kommando im Browser. Schau ins [Handbuch](http://ankisrs.net/docs/manual.html#other-menu-items) für weitere Infos.
 
-4. Repositionieren: you want to learn some verbs earlier than others, select the notes and use the reposion command in the browser. Take a look in the [manual](http://ankisrs.net/docs/manual.html#other-menu-items) for further information.
-
-5. If you want to use the spreadsheet in order to import it into Anki, you can do so. Make sure you convert the spreadsheet into a csv-file with utf8 encoding (e.g. with LibreOffice -> save a copy). Be aware to NOT USE the comma as a seperator since the example sentences contain commas. Use semicolons `;` instead.
-
-6. additional recommandations: in order to learn the most importand verbs first, go to the deck options, go to the 'new cards' tab and check whether the order is set to `show cards in order added` and uncheck `bury related new cards`.
-
-
+4. Wenn du Änderungen an der Excel Tabelle vornimmst und diese in Anki importieren möchtest, dann musst du sie erst konvertieren. Speichere die Tabelle als .csv Datei mit UTF8-kodierung ab (z.B. mit LibreOffice -> Kopie speichern unter). ACHTUNG, die .csv darf NICHT kommagetrennt sein. Es muss per `;` getrennt werden.
