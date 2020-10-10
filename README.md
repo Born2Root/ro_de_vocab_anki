@@ -21,7 +21,7 @@ Das Deck enthält direkt lernbarde Karten für:
 
 1. Importiere das Deck (.apkg Datei) in Anki
 
-2. Falls du nur irreguläre Verben üben möchtest ist das auch möglich. Wähle einfach alle Notes mit 'r' (für regulär) im Feld 'Type' aus und pausiere sie. Das geht am einfachsten, wenn du `type:r` in den Browser eingibst.2
+2. Falls du nur irreguläre Verben üben möchtest ist das auch möglich. Wähle einfach alle Notes mit 'r' (für regulär) im Feld 'Type' aus und pausiere sie. Das geht am einfachsten, wenn du `type:r` in den Browser eingibst.
 
 3. Repositionieren: Wenn du einige Vokabeln früher als andere lernen möchtest, markiere die Notizen und nutze das 'Repositionieren' Kommando im Browser. Schau ins [Handbuch](http://ankisrs.net/docs/manual.html#other-menu-items) für weitere Infos.
 
