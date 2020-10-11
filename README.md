@@ -4,7 +4,7 @@ Anki Vokabel & Verb-Konjugations Trainer für Deutsch <-> Rumänisch (DE - RO)
 **Dies ist ein rumänisch Vokabel & Verb-Konjugations Trainer für [Anki](http://ankisrs.net)**
 
 Er enthält:
-- Die Top 625 Wörter [Lies mehr über Top 625]()
+- Die Fluent Forever 625 Basis Vokabeln [mehr über Fluent Forever - 625 Words Methode](https://blog.fluent-forever.com/base-vocabulary-list/)
 - Duolingo Vokabeln
 - 50 Languages Vokabeln
 - Die meistverbreiteten irregulären & reulären Verben
