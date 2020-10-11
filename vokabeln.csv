@@ -14,7 +14,7 @@ Tante ;mătușă;mătuși;;;f;o;două;Familie;[sound:002-15.mp3]
 Wir sind eine Familie. ;Noi suntem o familie. ;;;;;;;Familie;[sound:002-17.mp3]
 klein;mic;;Die Familie ist nicht klein. ;Familia nu este mică.;;;;Familie;[sound:002-18.mp3]
 zahlreich;numeros;;Die Familie ist groß. ;Familia este numeroasă.;;;;Familie;[sound:002-19.mp3]
-Lebensmittel;aliment;alimente;Frăchte und Lebensmittel;fructe și alimente;n;un;două;Früchte und Lebensmittel;[sound:015-01.mp3]
+Lebensmittel;aliment;alimente;Früchte und Lebensmittel;fructe și alimente;n;un;două;Früchte und Lebensmittel;[sound:015-01.mp3]
 Erdbeere;căpşună;căpșuni;Ich habe eine Erdbeere. ;Eu am o căpşună. ;f;o;două;Früchte und Lebensmittel;[sound:015-02.mp3]
 Melone;pepene;pepeni;Ich habe eine Kiwi und eine Melone. ;Eu am un kiwi şi un pepene. ;m;un;doi;Früchte und Lebensmittel;[sound:015-03.mp3]
 Orange;portocală;portocale;Ich habe eine Orange und eine Grapefruit. ;Eu am o portocală şi un grapefruit. ;f;o;două;Früchte und Lebensmittel;[sound:015-04.mp3]
@@ -53,7 +53,7 @@ Schokolade;ciocolată;ciocolate;;;f;o;două;Duolingo;
 Honig;miere;;;;f;o;două;Duolingo;
 Zucker;zahăr;;;;n;un;două;Duolingo;
 Käse;brânză;brânzeturi;;;f;o;două;Duolingo;
-Frühstück;mic dejun;;;;n;un;două;Duolingo;
+Frühstück;mic dejun;mic dejunuri;;;n;un;două;Duolingo;
 Tisch;masă;mese;;;f;o;două;Duolingo;
 Öl;ulei;;;;n;un;două;Duolingo;
 Abendessen;cină;cine;;;f;o;două;Duolingo;
@@ -90,3 +90,27 @@ Gabel;furculiță;furculițe;;;f;o;două;Duolingo;
 Teller;farfurie;farfurii;;;f;o;două;Duolingo;
 Teelöffel;linguriță;lingurițe;;;f;o;două;Duolingo;
 Aprikose;caisă;caise;;;f;o;două;Duolingo;
+Katze;pisică;pisici;;;f;o;două;Duolingo;
+Vogel;pasăre;păsări;;;f;o;două;Duolingo;
+Hund;câine;câini;;;m;un;doi;Duolingo;
+Maus;șoarece;șoareci;;;m;un;doi;Duolingo;
+Kuh;vacă;vaci;;;f;o;două;Duolingo;
+Hase;iepure;iepuri;;;m;un;doi;Duolingo;
+Bulle;taur;tauri;;;m;un;doi;Duolingo;
+Ferkel;purcel;purcei;;;m;un;doi;Duolingo;
+Lamm;miel;miei;;;m;un;doi;Duolingo;
+Ziege;capră;capre;;;f;o;două;Duolingo;
+Huhn;găină;găini;;;f;o;două;Duolingo;
+Hengst;armăsar;armăsari;;;m;un;doi;Duolingo;
+Gans;gâscă;gâște;;;f;o;două;Duolingo;
+Wolf;lup;lupi;Mordhunger;foame de lup;m;un;doi;Duolingo;
+Wal;balenă;balene;;;f;o;două;Duolingo;
+Löwe;leu;lei;;;m;un;doi;Duolingo;
+Schlange;șarpe;șerpi;;;f;o;două;Duolingo;
+Robbe;focă;foci;;;f;o;două;Duolingo;
+Bär;urs;urși;;;m;un;doi;Duolingo;
+Hai;rechin;rechini;;;m;un;doi;Duolingo;
+Biene;albină;albine;;;f;o;două;Duolingo;
+Schmetterling;fluture;fluturi;;;m;un;doi;Duolingo;
+Spinne;păianjen;păianjeni;;;m;un;doi;Duolingo;
+Adler;vultur;vulturi;;;m;un;doi;Duolingo;
