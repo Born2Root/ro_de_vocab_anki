@@ -12,8 +12,8 @@ Schwester ;soră;surori;;;f;o;două;Familie;[sound:002-12.mp3]
 Onkel ;unchi;unchi;;;m;un;doi;Familie;[sound:002-14.mp3]
 Tante ;mătușă;mătuși;;;f;o;două;Familie;[sound:002-15.mp3]
 Wir sind eine Familie. ;Noi suntem o familie. ;;;;;;;Familie;[sound:002-17.mp3]
-klein;mic;;Die Familie ist nicht klein. ;Familia nu este mică.;;;;Familie;[sound:002-18.mp3]
-zahlreich;numeros;;Die Familie ist groß. ;Familia este numeroasă.;;;;Familie;[sound:002-19.mp3]
+klein;mic;;Die Familie ist nicht klein. ;Familia nu este mică.;adj;;;Familie;[sound:002-18.mp3]
+zahlreich;numeros;;Die Familie ist groß. ;Familia este numeroasă.;adj;;;Familie;[sound:002-19.mp3]
 Lebensmittel;aliment;alimente;Früchte und Lebensmittel;fructe și alimente;n;un;două;Früchte und Lebensmittel;[sound:015-01.mp3]
 Erdbeere;căpşună;căpșuni;Ich habe eine Erdbeere. ;Eu am o căpşună. ;f;o;două;Früchte und Lebensmittel;[sound:015-02.mp3]
 Melone;pepene;pepeni;Ich habe eine Kiwi und eine Melone. ;Eu am un kiwi şi un pepene. ;m;un;doi;Früchte und Lebensmittel;[sound:015-03.mp3]
@@ -29,11 +29,11 @@ Margarine;margarină;margarine;Ich esse ein Sandwich mit Margarine. ;Eu mănânc
 Tomate;roşie;roșii;Ich esse ein Sandwich mit Margarine und Tomate. ;Eu mănânc un sandviş cu margarină şi roşii. ;f;o;două;Früchte und Lebensmittel;[sound:015-13.mp3]
 Reis;orez;;Wir brauchen Brot und Reis. ;Noi avem nevoie de pâine şi orez. ;n;un;două;Früchte und Lebensmittel;[sound:015-14.mp3]
 Fisch;peşte;pești;Wir brauchen Fisch und Steaks. ;Noi avem nevoie de peşte şi friptură. ;m;un;doi;Früchte und Lebensmittel;[sound:015-15.mp3]
-Spaghetti;spaghete;;Wir brauchen Pizza und Spaghetti. ;Noi avem nevoie de pizza şi spaghete. ;pl;un;două;Früchte und Lebensmittel;[sound:015-16.mp3]
+Spaghetti;spaghete;;Wir brauchen Pizza und Spaghetti. ;Noi avem nevoie de pizza şi spaghete. ;pl;;;Früchte und Lebensmittel;[sound:015-16.mp3]
 Bedarf;nevoie;nevoi;Was brauchen wir noch? ;De ce mai avem nevoie? ;f;o;două;Früchte und Lebensmittel;[sound:015-17.mp3]
-Karotte;morcov;morcovi;Wir brauchen Karotten und Tomaten für die Suppe. ;Avem nevoie de morcovi şi roşii pentru supă. ;pl;un;două;Früchte und Lebensmittel;[sound:015-18.mp3]
+Karotte;morcov;morcovi;Wir brauchen Karotten und Tomaten für die Suppe. ;Avem nevoie de morcovi şi roşii pentru supă. ;m;un;doi;Früchte und Lebensmittel;[sound:015-18.mp3]
 Supermarkt;supermarket;supermarketuri;Wo ist ein Supermarkt? ;Unde este un supermarket?;n;un;două;Früchte und Lebensmittel;[sound:015-19.mp3]
-knusprig;bine prăjit;;;;;;;;
+knusprig;bine prăjit;;;;adj;;;;
 Steak, Braten;friptură;fripturi;;;f;o;două;;
 Brot;pâine;pâini;;;f;o;două;Duolingo;
 Tee;ceai;ceaiuri;;;n;un;două;Duolingo;
@@ -75,7 +75,7 @@ Blumenkohl;conopidă;conopide;;;f;o;două;Duolingo;
 Senf;muștar;;;;m;un;doi;Duolingo;
 Kuchen;plăcintă;plăcinte;;;f;o;două;Duolingo;
 Essig;oțet;oțeturi;;;n;un;două;Duolingo;
-viel/ viele;multe;;;;;;;Duolingo;
+viel/ viele;multe;;;;adj;;;Duolingo;
 Eiscreme;înghețată;înghețate;;;f;o;două;Duolingo;
 Rindfleisch;carne de vită;cărnuri;;;f;o;două;Duolingo;
 Schweinefleisch;carne de porc;;;;f;o;două;Duolingo;
@@ -114,3 +114,28 @@ Biene;albină;albine;;;f;o;două;Duolingo;
 Schmetterling;fluture;fluturi;;;m;un;doi;Duolingo;
 Spinne;păianjen;păianjeni;;;m;un;doi;Duolingo;
 Adler;vultur;vulturi;;;m;un;doi;Duolingo;
+leicht, einfach;ușor;;;;adj;;;Duolingo;
+schnell;rapid;;;;adj;;;Duolingo;
+stark;puternic;;;;adj;;;Duolingo;
+groß;înalt;;;;adj;;;Duolingo;
+langsam;încet;;;;adj;;;Duolingo;
+klein (Größe);scund;;;;adj;;;Duolingo;
+Pferd;cal;cai;;;m;un;doi;Duolingo;
+reich;bogat;;;;adj;;;Duolingo;
+schön, hübsch;frumos;;;;adj;;;Duolingo;
+billig;ieftin;;;;adj;;;Duolingo;
+hässlich;urât;;;;adj;;;Duolingo;
+Eule;bufniță;bufnițe;;;f;o;două;Duolingo;
+frisch;proaspăt;;;;adj;;;Duolingo;
+reif (Obst), gebacken;copt;;;;adj;;;Duolingo;
+leer;gol;goale;;;adj;;;Duolingo;
+gekocht;fiert;fierte;;;adj;;;Duolingo;
+nackt;gol;goale;;;adj;;;Duolingo;
+Ente;rață;rațe;;;f;o;două;Duolingo;
+Pflaume;prună;prune;;;f;o;două;Duolingo;
+sauber;curat;curate;;;adj;;;Duolingo;
+dreckig;murdar;murdare;;;adj;;;Duolingo;
+schlecht;rău;rele;;;adj;;;Duolingo;
+nass;ud;ude;;;adj;;;Duolingo;
+Tag;zi;zile;;;f;o;două;Duolingo;
+Bier;bere;beri;;;f;o;două;Duolingo;
