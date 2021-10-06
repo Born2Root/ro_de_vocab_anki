@@ -11,9 +11,12 @@ Er enthält:
 
 Out of the box, stehen folgende Lernmodi zur Verfügung:
 
-Das Deck enthält direkt lernbarde Karten für:
-* Picture -> Word + Audio
+Das Deck enthält direkt lernbare Vokabelkarten für:
+* Deutsches Wort + Satz -> Rumänisches Wort + Audio + Satübersetzung
+* Bild + Audio -> Rumänisches Wort schreiben
+* Bild -> Rumänisches Wort + Audio
 
+Ergänzend gibt es eine Extra-Deck für das Lernen von regulären- und irregulären Verben.
 
 ### Benutzung
 
