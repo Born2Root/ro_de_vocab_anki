@@ -29,3 +29,6 @@ Ergänzend gibt es eine Extra-Deck für das Lernen von regulären- und irregulä
 3. Repositionieren: Wenn du einige Vokabeln früher als andere lernen möchtest, markiere die Notizen und nutze das 'Repositionieren' Kommando im Browser. Schau ins [Handbuch](http://ankisrs.net/docs/manual.html#other-menu-items) für weitere Infos.
 
 4. Wenn du Änderungen an der Excel Tabelle vornimmst und diese in Anki importieren möchtest, dann musst du sie erst konvertieren. Speichere die Tabelle als .csv Datei mit UTF8-kodierung ab (z.B. mit LibreOffice -> Kopie speichern unter). ACHTUNG, die .csv darf NICHT kommagetrennt sein. Es muss per `;` getrennt werden.
+Wenn du Excel verwendest ist in der vokabeln.xslm Datei bereits ein VBA-Makro enthalten, dass den Export automatisch durchführt.
+Um es zu benutzen musst du in Excel lediglich Makros aktivieren und im Anschluss den "export" Button oben im jeweiligen Tabellenblatt drücken.
+Danach wird im Ordner der Excel Datei automatisch die entsprechende Export .csv Datei erzeugt.
