@@ -32,3 +32,19 @@ Ergänzend gibt es eine Extra-Deck für das Lernen von regulären- und irregulä
 Wenn du Excel verwendest ist in der vokabeln.xslm Datei bereits ein VBA-Makro enthalten, dass den Export automatisch durchführt.
 Um es zu benutzen musst du in Excel lediglich Makros aktivieren und im Anschluss den "export" Button oben im jeweiligen Tabellenblatt drücken.
 Danach wird im Ordner der Excel Datei automatisch die entsprechende Export .csv Datei erzeugt.
+
+### Support:
+Die in diesem Repository abgelegten Sprachlernmaterialien werden kostenfrei zur Verfügung gestellt.
+Ziel ist es Lernenden möglichst gute ANKI-Decks für Rumänisch-Deutsch zugänglich zu machen.
+Wenn Ihnen die Decks gefallen würden wir uns über Unterstützung trotzdem sehr freuen.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W36ACK)
+
+### Disclaimer:
+Die in den ANKI-Decks enthaltenen Mediadateien wurden frei aus dem Internet bezogen.
+Die Audiodateien wurden über Google-Translate generiert.
+Die Bilder wurden mittels Suchmaschine ergänzt.
+
+Sollten Sie Rechteinhaber einer Abbildung sein, und deren Verwendung zum Sprachen lernen widersprechen können Sie sich mit Begründung einer Inhaltsverletzung bei mir melden.
+Ich werde die betroffenen Medien dann umgehend aus dem betreffenden Deck entfernen.
+
