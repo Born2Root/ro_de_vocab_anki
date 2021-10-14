@@ -38,7 +38,7 @@ Die in diesem Repository abgelegten Sprachlernmaterialien werden kostenfrei zur 
 Ziel ist es Lernenden möglichst gute ANKI-Decks für Rumänisch-Deutsch zugänglich zu machen.
 Wenn Ihnen die Decks gefallen würden wir uns über Unterstützung trotzdem sehr freuen.
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W36ACK)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/born2root)
 
 ### Disclaimer:
 Die in den ANKI-Decks enthaltenen Mediadateien wurden frei aus dem Internet bezogen.
@@ -47,4 +47,3 @@ Die Bilder wurden mittels Suchmaschine ergänzt.
 
 Sollten Sie Rechteinhaber einer Abbildung sein, und deren Verwendung zum Sprachen lernen widersprechen können Sie sich mit Begründung einer Inhaltsverletzung bei mir melden.
 Ich werde die betroffenen Medien dann umgehend aus dem betreffenden Deck entfernen.
-
