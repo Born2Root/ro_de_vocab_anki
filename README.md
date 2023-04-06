@@ -39,7 +39,6 @@ Ziel ist es Lernenden möglichst gute ANKI-Decks für Rumänisch-Deutsch zugäng
 Wenn dir die Decks gefallen würden wir uns über Unterstützung sehr freuen.
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/born2root)
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/reimagine)
 
 ### Disclaimer:
 Die in den ANKI-Decks enthaltenen Mediadateien wurden frei aus dem Internet bezogen.
