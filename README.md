@@ -1,4 +1,5 @@
-Anki Vokabel & Verb-Konjugations Trainer für Deutsch<->Rumänisch (DE - RO)
+Anki Vokabel & Verb-Konjugations Trainer 
+für Deutsch<->Rumänisch (DE - RO)
 ============================================
 
 **Dies ist ein rumänisch Vokabel & Verb-Konjugations Trainer für [Anki](http://ankisrs.net)**
